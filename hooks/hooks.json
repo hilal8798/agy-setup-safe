@@ -1,0 +1,1 @@
+{"PreInvocation":[{"command":"python3 ~/.gemini/config/hooks/context-guardian.py"}],"_comment":"Reference only. install.py does NOT overwrite your hooks.json. To enable the guardian, add this PreInvocation entry to ~/.gemini/config/hooks.json manually, merged with any hooks you already have."}
